@@ -69,7 +69,7 @@ int main(){
         outputFile<<i;
     }
     outputFile<<endl;
-    cout<<"Data written sucessfully"<<endl;
+    cout<<"Data written sucessfully"<<endl; //confirms data written to file
 
-    return 0;
+    return 0; 
 }
