@@ -68,7 +68,7 @@ int main(){
     for(int i : factorialnumber){
         outputFile<<i;
     }
-    outputFile<<endl;
+    outputFile<<endl;//something another added in the main branch
     cout<<"Data written sucessfully"<<endl; //confirms data written to file
 
     return 0; 
